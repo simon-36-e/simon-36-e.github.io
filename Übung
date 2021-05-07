@@ -22,7 +22,7 @@
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#Erster">Allgemein</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -32,10 +32,10 @@
         <a class="nav-link" href="https://www.borg.at">BORG Egg</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#Erster">Allgemein</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="Zweiter">Geschwister</a>
       </li>
     </ul>
   </div>
@@ -67,7 +67,7 @@
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-8">
-      <h2>Homeschooing Allgemein:</h2>
+      <h2 id="Erstens">Homeschooing Allgemein:</h2>
       <div class="fakeimg">Fake Image</div>
       <p>Jeder Tag im Homeschooling fühlt sich an, wie stummes rumsitzen. Vielleicht sollte ich das ein bisschen erklären. In der Schule sitzt man zwar auch da, aber man ist nicht stumm, was die meisten Lehrer wissen.
   Man ist in der Schule und redet mit Menschen. Man pflegt seine sozialen Kontakte, das kann man zwar auch außerhalb der Schule machen, aber wegen Corona ist dies nicht mögliche, wie hoffentlich jeder weiß.
@@ -86,7 +86,7 @@
   <p1> Hier rede ich auch noch über anderen Kram </p1> <br>
   <a href="https://simon-36-e.github.io/themen.html"> https://simon-36-e.github.io/themen.html </a>
         <br>
-      <h2>Geschwister im Homeschooling</h2>
+      <h2 id="Zweiter">Geschwister im Homeschooling</h2>
       <div class="fakeimg">Fake Image</div>
       <p>Homeschooling ist nicht das aller beste. Ich habe ja schon früher gesagt, dass man sich dadurch einsam fühlt und seine sozialen Kontakte nicht mehr pflegt, aber es gibt da diese Gruppe Menschen, die das ein bisschen
     verhindern und zwar die Geschwister. Geschwister sorgen im Homeschooling dafür, dass man sich nicht komplett langweilt, denn sie haben immer irgendwelche Probleme. Man kann einfach mit ihnen reden und das so wie man will, 
