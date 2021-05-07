@@ -9,7 +9,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <style>
-  .fakeimg {
+  .img {https://static.bnn.de/nachrichten/baden-wuerttemberg/AdobeStock_331435252.jpg-hlbsu2/alternates/LANDSCAPE_16x9_BASE/AdobeStock_331435252.jpg
     height: 200px;
     background: #aaa;
   }
@@ -22,7 +22,7 @@
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="#Erster">Allgemein</a>
+  <a class="navbar-brand">Gute Links</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -60,15 +60,13 @@
         <li class="nav-item">
           <a class="nav-link" href="https://simon-36-e.github.io/bilder.html">Bilder</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
-        </li>
+     
       </ul>
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-8">
       <h2 id="Erstens">Homeschooing Allgemein:</h2>
-      <div class="fakeimg">Fake Image</div>
+      
       <p>Jeder Tag im Homeschooling fühlt sich an, wie stummes rumsitzen. Vielleicht sollte ich das ein bisschen erklären. In der Schule sitzt man zwar auch da, aber man ist nicht stumm, was die meisten Lehrer wissen.
   Man ist in der Schule und redet mit Menschen. Man pflegt seine sozialen Kontakte, das kann man zwar auch außerhalb der Schule machen, aber wegen Corona ist dies nicht mögliche, wie hoffentlich jeder weiß.
   In der Schule hat man auch häuiger einen Raumwechsel. Man geht von der Haupklassen in den Biologie-Saal und dann in den Informatik-Raum. Beim Homeschooling sitzt man den ganzen Tag nur in seinem Zimmer vor dem Computer.
@@ -87,7 +85,7 @@
   <a href="https://simon-36-e.github.io/themen.html"> https://simon-36-e.github.io/themen.html </a>
         <br>
       <h2 id="Zweiter">Geschwister im Homeschooling</h2>
-      <div class="fakeimg">Fake Image</div>
+      <div class="https://www.elternwissen.com/fileadmin/content/magazin/erziehung/Geschwister-erziehen/geschwister2.jpg"></div>
       <p>Homeschooling ist nicht das aller beste. Ich habe ja schon früher gesagt, dass man sich dadurch einsam fühlt und seine sozialen Kontakte nicht mehr pflegt, aber es gibt da diese Gruppe Menschen, die das ein bisschen
     verhindern und zwar die Geschwister. Geschwister sorgen im Homeschooling dafür, dass man sich nicht komplett langweilt, denn sie haben immer irgendwelche Probleme. Man kann einfach mit ihnen reden und das so wie man will, 
     denn sie sind deine Art sowieso gewonnt. Sie leben ja schon eine Weile mit dir zusammen. Nunja, zwar ist das alles ganz nett, aber das blöde ist, wenn du der Älteste oder die Älteste bist. Dadurch ergeben sich ganz andere
