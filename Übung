@@ -52,13 +52,13 @@
       <p>Lorem ipsum dolor sit ame.</p>
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Active</a>
+          <a class="nav-link active" href="https://www.borg.at/">BORG</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="https://simon-36-e.github.io/themen.html">Anderer Block</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="https://simon-36-e.github.io/bilder.html">Bilder</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled" href="#">Disabled</a>
@@ -78,7 +78,14 @@
   dann ist das etwas zu viel des Guten. Die Möglichkeit, dass du die Aufgaben selbst bestimmen kannst, ist auch nur so medium gut, denn du brauchst einen gewissen Plan, den du jede Woche gleich abarbeitest, denn sonst vergisst du schnell.
   Vorallem vergisst du schnell etwas, wenn man die gesamte Lehergesellschaft an der Schule auffordert die selbe Plattform für die Aufgaben zu verwenden und dann die drei Lehrer um die Ecke kommen, die überhaupt keine Lust darauf haben. 
   Ich weiß nicht wie oft ich schon gedacht habe ich wäre fertig und dann kommt mir wieder in den Sinn, dass es da ja noch Aufgaben auf anderen Plattform gibt. Dieses Gefühl ist einfach entmutigend.</p>
-      <br>
+      <a href="https://simon-36-e.github.io/bilder.html"> htpps://simon-36-e.github.io/bild.html
+</a> <br>
+      <div class="col-sm-8">
+<p1> Hier auf dieser Seite gibt es immer die Bilder, damit man sich etwas besser vorstellen kann wovon ich rede.</p1> 
+
+  <p1> Hier rede ich auch noch über anderen Kram </p1> <br>
+  <a href="https://simon-36-e.github.io/themen.html"> https://simon-36-e.github.io/themen.html </a>
+        <br>
       <h2>Geschwister im Homeschooling</h2>
       <div class="fakeimg">Fake Image</div>
       <p>Homeschooling ist nicht das aller beste. Ich habe ja schon früher gesagt, dass man sich dadurch einsam fühlt und seine sozialen Kontakte nicht mehr pflegt, aber es gibt da diese Gruppe Menschen, die das ein bisschen
