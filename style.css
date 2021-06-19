@@ -3,5 +3,5 @@ body {
     background-color: #2CA6B8;
   }
 #Nav { background-color: rgb(36,3,1)}
-div.jumbotron text-center {margin-bottom:0}
-#marigin {style="margin-bottom:0"}
+div.jumbotron text-center {margin-bottom:0} 
+class="jumbotron text-center" {margin-bottom:0}
